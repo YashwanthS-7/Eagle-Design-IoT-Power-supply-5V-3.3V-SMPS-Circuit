@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2024-11-10T17:26:24Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "SMPS_Schematic"
+        },
+        "Owner": "naga sai <nagasai.pjc22@iiits.in>",
+        "Size": {
+            "X": 80.95,
+            "Y": 36.82
+        }
+    }
+}
